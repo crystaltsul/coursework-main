@@ -1,0 +1,32 @@
+Player 2 initial hand: 1 2 2 2
+
+Player 2 draws 6 from Deck 2
+Player 2 discards 1 to Deck 3
+Current Hand: 2 2 2 6
+
+Player 2 draws 1 from Deck 2
+Player 2 discards 6 to Deck 3
+Current Hand: 2 2 2 1
+
+Player 2 draws 3 from Deck 2
+Player 2 discards 1 to Deck 3
+Current Hand: 2 2 2 3
+
+Player 2 draws 3 from Deck 2
+Player 2 discards 3 to Deck 3
+Current Hand: 2 2 2 3
+
+Player 2 draws 5 from Deck 2
+Player 2 discards 3 to Deck 3
+Current Hand: 2 2 2 5
+
+Player 2 draws 4 from Deck 2
+Player 2 discards 5 to Deck 3
+Current Hand: 2 2 2 4
+
+Player 2 draws 2 from Deck 2
+Player 2 discards 4 to Deck 3
+Current Hand: 2 2 2 2
+
+Player 2 wins the game!
+Final hand: 2 2 2 2
